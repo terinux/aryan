@@ -234,7 +234,7 @@ Admins
 @iwals [Founder]
 @imandaneshi [Developer]
 @Rondoozle [Developer]
-@seyedan25 [Manager]
+@hellboys_admin [Manager]
 
 Special thanks to
 awkward_potato
